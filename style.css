@@ -1,0 +1,28 @@
+h1 {
+  font-size: 50px;
+  color: #ffffff;
+}
+
+h2 {
+  color: aliceblue;
+}
+.jumbotron {
+  padding: 5rem 4rem;
+  background-color: #0e2a47;
+}
+
+#Projects {
+  background-color: #0e2a47;
+}
+
+h4 {
+  color: #ffffff;
+}
+
+footer {
+  color: #0e2a47;
+}
+
+section {
+  padding-top: 5rem;
+}
